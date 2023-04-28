@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div.padre {
+    background-image: url(file:///C:/Users/Yo/Desktop/Desafio/Bifurcacion.jpeg);
+    background-size:cover;
+    padding: 20%;
+    padding-bottom: 8%;
+}
+
+div.pregunta {
+    background-color: #f88501dc;
+    padding: 20px;
+    border: 2px solid #000;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+  
+.cartel {
+    padding: 20px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+  
+.izquierda {
+    background-color: #4CAF50;
+    flex: 1;
+    margin-right: 20px;
+}
+  
+.derecha {
+    background-color: #2196F3;
+    flex: 1;
+    margin-left: 20px;
+}
+
+.centro {
+    background-color: #f34121;
+    margin-left: 9cm;
+}
+
+header {
+    padding: 3%;
+    text-align: center;
+    border: 3px solid black;
+    background: radial-gradient(yellow, red);
+    color: black;
+}
