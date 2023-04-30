@@ -4,12 +4,11 @@
 }
 
 div.padre {
-    background-image: url(file:///C:/Users/Yo/Desktop/Desafio/Bifurcacion.jpeg);
+    background-image: url(file:Bifurcacion.jpeg);
     background-size:cover;
     padding: 20%;
     padding-bottom: 8%;
 }
-
 div.pregunta {
     background-color: #f88501dc;
     padding: 20px;
